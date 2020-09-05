@@ -1,3 +1,6 @@
+Fork from Balena-Sense to only include InfluxDB and Grafana to work as a lightweight NAS for timeseries for Home Assistant.
+
+
 ![balena-sense](https://raw.githubusercontent.com/balena-io-projects/balena-sense/master/images/logo.png)
 
 ![](https://balena.io/blog/content/images/2019/03/balenaSense_blog.jpg)
